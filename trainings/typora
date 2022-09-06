@@ -2,12 +2,19 @@
 ## -> h2
 ### -> h3
 
+- list item1
+- list item2
+
+* list item1
+* list item2
 
 
+*italic*  **bold**  ***bolditalic*** 
+
+[Google'a Gitmek için Tıklayınız](https://www.google.com) #köşeli parantez ve peşinden gelen parantez içi linki gerçek oluşturulan sitede basılmaya uygun bir link oluşturur
 
 
-
-
+![Lorem Picsum Gorsel](https://picsum.photos/200/300)
 
 
 
