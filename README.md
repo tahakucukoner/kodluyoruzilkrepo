@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-* bu repo Kodluyoruz Frontend eğitiminde oluşturduğumuz il repo. İçerisinde 1 adet README.md, 1 adet de index.HTML barındırıyor.
+* Bu repository, "Kodluyoruz Frontend" eğitiminde oluşturduğumuz ilk repo. İçerisinde 1 adet README.md, 1 adet de index.HTML barındırıyor.
 ------------------------------------------------------------
 
 ## Installation
