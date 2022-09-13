@@ -8,4 +8,4 @@
 //alert("Merhaba Dunya")
 
 // console.log ile Merhaba Dunya:
-console.log("Merhaba Dünya") 
+//sconsole.log("Merhaba Dünya") 
