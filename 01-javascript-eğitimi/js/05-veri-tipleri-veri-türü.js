@@ -42,18 +42,3 @@ number5= number5.toString()
 console.log(number5,typeof(number5))
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

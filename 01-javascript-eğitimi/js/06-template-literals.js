@@ -18,3 +18,4 @@ console.log(info)
 // backtick yapmak için option, tuşlarına aynı anda basmak 
 // aslında backtick kullanmamızın sebebi "" veya '' ifadeleri birden çok satır yazarken bize zorluk çıkarıyordu. 
 // Bu şekilde istediğimiz satırda metin yazabilir ve print edebiliriz.
+
