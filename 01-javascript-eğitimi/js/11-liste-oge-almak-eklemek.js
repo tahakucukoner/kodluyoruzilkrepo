@@ -12,7 +12,10 @@ let ulDOM= document.querySelector("ul#list")
 let liDOM= document.createElement("li")          //burada web sayfasına bir liste daha ekledik.
 liDOM.innerHTML= "Kendi Oluşturduğumuz Oge"  
 
-ulDOM.append(liDOM)
+ulDOM.append(liDOM) // en sona eleman ekleme 
+ulDOM.prepend(liDOM) // en öne eleman ekleme
+
+
 
 
 
