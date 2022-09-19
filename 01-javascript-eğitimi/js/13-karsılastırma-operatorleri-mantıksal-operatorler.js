@@ -1,4 +1,4 @@
-//******************* <Karsilastirma Operatörleri ******************
+//******************* Karsilastirma Operatörleri ******************
 // https://www.w3schools.com/js/js_comparisons.asp
 
 let price="100"
